@@ -1,1 +1,2 @@
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=besaleli&theme=dark&show_icons=true&count_private=true" />
+![My Stats](https://github-readme-stats.vercel.app/api?username=besaleli&theme=dark&show_icons=true&count_private=true)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=besaleli&hide=jupyternotebook&layout=compact)
