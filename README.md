@@ -3,7 +3,7 @@
 I am an ML Systems Engineer, OSS contributor, and aspiring boat ornament based in NYC 🇺🇸 and Tbilisi 🇬🇪
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/python/000000" height="30" alt="Python"/>
   <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="Rust"/>
 </p>
 
