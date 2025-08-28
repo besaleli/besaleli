@@ -7,4 +7,4 @@ I am an ML Systems Engineer, OSS contributor, and aspiring boat ornament based i
   <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="Rust"/>
 </p>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=besaleli&theme=tokyonight&show_icons=true&count_private=true&rank_icon=github)
+![My Stats](https://github-readme-stats.vercel.app/api?username=besaleli&theme=tokyonight&show_icons=true&count_private=true&rank_icon=github&hide=stars&show=prs_merged)
